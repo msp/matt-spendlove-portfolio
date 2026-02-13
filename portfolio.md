@@ -9,8 +9,8 @@ background-image: url(https://res.cloudinary.com/cenatus/image/upload/v177098180
 background-size: cover
 
 <div class="white">
-<h3 style="margin-bottom: 1rem;">matt spendlove</h3>
-<h4 style="margin: 0;">[selected works]</h4>
+<h3 style="margin-bottom: 0.4rem; margin-top: 0.5rem;">matt spendlove</h3>
+<h5 style="margin: 0;">[selected works]</h4>
 </div>
 
 
@@ -49,6 +49,9 @@ Inspired by Spanish film artist and inventor **José Val del Omar’s** evocativ
 Commissioned by the **Museum of the Moving Image**, New York City, for _‘Cinema of Sensations: The Never-Ending Screen of Val del Omar’_ 10 March - 1 October 2023.
 
 Produced and presented with the generous support of the Australia Council for the Arts, ArtsACT, and the Australian Consulate-General, New York.
+
+<br />
+<br />
 
 _In Parallax_ was created and realised by Matt Spendlove & Sally Golding.
 ]
@@ -101,7 +104,9 @@ Intra Protocol was created and realised by Matt Spendlove & Sally Golding.
 
 # Decompression
 
-> Decompression unravels in the spirit of a 'happening' – an encounter between audiences, space and the elements of cinematic abstraction, explored via the artists' longstanding interest in expanded cinema and sound system culture.
+.copy-center[
+Decompression unravels in the spirit of a 'happening' – an encounter between audiences, space and the elements of cinematic abstraction, explored via the artists' longstanding interest in expanded cinema and sound system culture.
+]
 
 .footnote[https://mattspendlove.com/articles/5-decompression]
 
@@ -132,7 +137,13 @@ background-size: cover
 
 ---
 
-> Excerpts from the seminal publication Expanded Cinema by Gene Youngblood (1970) bring ideas of ‘technological-utopia’ into the contemporary into collision with contemporary networked culture. The performance also features a light sensitive screen, tactile projection beams, and surround sound.
+# Decompression
+
+.copy-center[
+Excerpts from the seminal publication Expanded Cinema by Gene Youngblood (1970) bring ideas of 'technological-utopia' into the contemporary into collision with contemporary networked culture. The performance also features a light sensitive screen, tactile projection beams, and surround sound.
+]
+
+.footnote[https://mattspendlove.com/articles/5-decompression]
 
 ---
 
@@ -154,7 +165,9 @@ background-size: cover
 
 # Transduction
 
-> Transduction is a spatial's performative, live-coded, opti-sonic intervention designed for projection and multi-channel sound. Presented as an abstract animation of visual music, illusory visual and psychoacoustic effects probe perception via experimental psychological processes and kinetic optical techniques.
+.copy-center[
+Transduction is a spatial's performative, live-coded, opti-sonic intervention designed for projection and multi-channel sound. Presented as an abstract animation of visual music, illusory visual and psychoacoustic effects probe perception via experimental psychological processes and kinetic optical techniques.
+]
 
 .footnote[https://mattspendlove.com/articles/3-transduction]
 
@@ -180,16 +193,19 @@ background-size: cover
 
 ---
 
+# Transduction
+
 <div class="youtube-video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/wmySHTJQTgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ---
 
 # Assembly Now [online]
 
-> Assembly Now [online] is a virtual experience of the artists’ recent installation, which inaugurated Metro Arts’ new main gallery as part of Brisbane Festival 2020. Simulating and expanding on the physical installation, participants are immersed in a work that plays with perception, interactivity and unexpected encounters – including the viewer’s own image captured, integrated and combined with other viewers within the artwork.
+.copy-center[
+Assembly Now [online] is a virtual experience of the artists' recent installation, which inaugurated Metro Arts' new main gallery as part of Brisbane Festival 2020. Simulating and expanding on the physical installation, participants are immersed in a work that plays with perception, interactivity and unexpected encounters – including the viewer's own image captured, integrated and combined with other viewers within the artwork.
+]
 
 .footnote[https://mattspendlove.com/articles/4-assembly-now]
 
@@ -215,9 +231,11 @@ background-size: cover
 
 ---
 
-# Your Double My Double Our Ghost - South London Gallery
+# Your Double My Double Our Ghost
 
-> Your Double My Double Our Ghost shown at South London Gallery, is a participatory installation which explores interaction and perception within a multi-sensory environment involving generative coding, lighting and projection onto optical sheeting, sonic composition, and the viewer’s own reflection. The installation acts as a space for the consideration of intimacy and meditation through the merging of the gallery visitor’s reflections which construct a new composition of light and sound in an otherwise dark chamber.
+.copy-center[
+Your Double My Double Our Ghost shown at South London Gallery, is a participatory installation which explores interaction and perception within a multi-sensory environment involving generative coding, lighting and projection onto optical sheeting, sonic composition, and the viewer's own reflection. The installation acts as a space for the consideration of intimacy and meditation through the merging of the gallery visitor's reflections which construct a new composition of light and sound in an otherwise dark chamber.
+]
 
 .footnote[https://sallygolding.com/installation#/your-double-my-double-our-ghost/]
 
@@ -243,6 +261,8 @@ background-size: cover
 
 ---
 
+# Your Double My Double Our Ghost
+
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/181521177?h=316a61c4ba" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <p><a href="https://vimeo.com/181521177">Sally Golding - Your Double My Double Our Ghost installation</a> from <a href="https://vimeo.com/otherfilm">OtherFilm</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
@@ -250,7 +270,9 @@ background-size: cover
 
 # Light Begets Sound
 
-> _Light Begets Sound_ is a series of durational performances focussing on the potential of cinematic machine devices to immersive audiences in states of perception and sensation..
+.copy-center[
+_Light Begets Sound_ is a series of durational performances focussing on the potential of cinematic machine devices to immersive audiences in states of perception and sensation.
+]
 
 .footnote[https://sallygolding.com/performance#/light-begets-sound]
 
@@ -296,6 +318,8 @@ background-size: cover
 
 ---
 
+# Light Begets Sound
+
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/257929658?h=0e7775d6d1" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <p><a href="https://vimeo.com/257929658">Spatial-Golding live at Splice Festival 2017</a> from <a href="https://vimeo.com/otherfilm">OtherFilm</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
@@ -303,8 +327,10 @@ background-size: cover
 
 # Serralves Museum, Portugal
 
-> Improvised performance at the Serralves contemporary art museum in Porto as part of their Museum as Performance series using sonified lighting and emergent, live coded software in a sensory and hypnotic opti-sonic intervention.
->
+.copy-center[
+Improvised performance at the Serralves contemporary art museum in Porto as part of their Museum as Performance series using sonified lighting and emergent, live coded software in a sensory and hypnotic opti-sonic intervention.
+]
+
 .footnote[https://sallygolding.com/performance#/spatial-golding]
 
 ---
@@ -329,9 +355,11 @@ background-size: cover
 
 ---
 
-# Breaching Transmissions - Melbourne International Film Festival
+# Breaching Transmissions
 
-> Immersive audiovisual performance taking the audience on a hallucinogenic dark carnival ride exploring the slippage between parapsychology and technology.
+.copy-center[
+Immersive audiovisual performance taking the audience on a hallucinogenic dark carnival ride exploring the slippage between parapsychology and technology.
+]
 
 .footnote[https://mattspendlove.com/articles/6-breaching-transmissions]
 
@@ -356,18 +384,15 @@ background-image: url(https://images.squarespace-cdn.com/content/v1/5b0ed463cc8f
 background-size: cover
 
 ---
-<!--
-<div class="youtube-video-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/3SWATMC63x4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div> -->
 
-
+.copy-center[
 .links[
 
 - [mattspendlove.com](https://mattspendlove.com/)
 
 
 - [cenatus.org](https://cenatus.org)
+]
 ]
 
 
