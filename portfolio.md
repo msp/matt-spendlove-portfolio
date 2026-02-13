@@ -3,15 +3,15 @@ layout: true
 class: center, middle
 
 ---
+class: top, left
 
-background-image: url(https://static1.squarespace.com/static/5b0ed463cc8fed2e0f23643c/5be1c05bcd8366c7429679f8/5be1db672b6a2826c48e9198/1541531621066/3.2_Spatial-Golding_Decompression_Tyneside+Cinema_4.jpg?format=1500w)
+background-image: url(https://res.cloudinary.com/cenatus/image/upload/v1770981808/projects/In%20Parallax/in-parallax-still.png?format=1500w)
 background-size: cover
 
-.white[
-### Matt Spendlove
-
-#### [selected works]
-]
+<div class="white">
+<h3 style="margin-bottom: 1rem;">matt spendlove</h3>
+<h4 style="margin: 0;">[selected works]</h4>
+</div>
 
 
 
@@ -19,7 +19,7 @@ background-size: cover
 <br />
 <br />
 
-.footnote[Hit 'f' on your keyboard for fullscreen viewing. Use arrow keys or swipe to navigate. Laptop or desktop recommended.]
+<div class="footnote" style="bottom: 5px; text-align: center;">Hit 'f' on your keyboard for fullscreen viewing. Use arrow keys or swipe to navigate. Laptop or desktop recommended.</div>
 
 ---
 
