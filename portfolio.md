@@ -1,6 +1,6 @@
 name: Golding / Spendlove Portfolio
 layout: true
-class: center, middle
+class: center, top
 
 ---
 class: top, left
@@ -20,6 +20,82 @@ background-size: cover
 <br />
 
 <div class="footnote" style="bottom: 5px; text-align: center;">Hit 'f' on your keyboard for fullscreen viewing. Use arrow keys or swipe to navigate. Laptop or desktop recommended.</div>
+
+---
+
+# In Parallax
+
+.copy-center[
+What is a cinema without images? What are the sensorial conditions of vision? _In Parallax_ expands the traditional architectural space of film by doubling the in-real-life (IRL) gallery screen via a complementary virtual reality (VR) experience. The resulting parallax centralises the viewer in the space between IRL and VR, suspending them amidst two possible viewings of an interconnected but differently realised work.
+]
+
+.footnote[https://mattspendlove.com/articles/1-in-parallax]
+
+---
+
+# In Parallax
+
+.copy-center[
+Inspired by Spanish film artist and inventor **José Val del Omar’s** evocative concept of the "apanoramic overflow" of the screen (in which the image spills out onto walls, floor, even audience), the installation questions the fixed position of the viewer. In Parallax brings both the device and the body to a purely sensory cinematic experience. Letting visitors move freely around (or, in VR, penetrate) the screen while feeling sound intimately and collectively, the installation is a playful inquiry into how we see objects and experience the world from different perspectives
+]
+
+.footnote[https://mattspendlove.com/articles/1-in-parallax]
+
+---
+
+# In Parallax
+
+.copy-center[
+Commissioned by the **Museum of the Moving Image**, New York City, for _‘Cinema of Sensations: The Never-Ending Screen of Val del Omar’_ 10 March - 1 October 2023.
+
+Produced and presented with the generous support of the Australia Council for the Arts, ArtsACT, and the Australian Consulate-General, New York.
+
+_In Parallax_ was created and realised by Matt Spendlove & Sally Golding.
+]
+
+.footnote[https://mattspendlove.com/articles/1-in-parallax]
+
+---
+
+# In Parallax
+
+<div class="youtube-video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/gFPAmYMdKxw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+---
+
+# Intra Protocol
+
+.copy-center[
+_Intra Protocol_ is an installation-performance which occupies and enlivens the audiovisual systems of the cinema. In conversation with the broader context of expanded cinema, the piece sets out to interrogate the technical apparatus of a contemporary digital cinema environment. Manipulating the elements of projection, speaker arrays, and lighting rigs as a form of experimental audiovisual composition. We consider this to be a practise of ‘social architecture’, thinking about the cinema as a constructed environment that shapes and conditions our behaviours and responses. This peice moves between traditional cinematic space and the ‘microcinema’ of personal devices. The composition is a communication protocol, or a script, for a new cinematic interface..
+]
+
+.footnote[https://mattspendlove.com/articles/2-intra-protocol]
+
+---
+
+# Intra Protocol
+
+.copy-center[
+From club-like sound system bass tones and beats, to the monument of the screen glowing with LED sound sensitive lights, to frenzied colour fields and a distributed synthesizer on the audience’s own mobile phone devices – Intra Protocol plays with anticipation in an unexpected ‘happening’ to use the theatre itself as a creative tool.
+
+Conceived to accompany the **Australian Centre for the Moving Image’s** exhibition **Light: Works from Tate’s Collection**, and programmed by **Liquid Architecture** in responses to **Lis Rhodes’** influential film installation, Light Music (1975), for a live performance and screening event.
+
+<br />
+
+Intra Protocol was created and realised by Matt Spendlove & Sally Golding.
+]
+
+.footnote[https://mattspendlove.com/articles/2-intra-protocol]
+
+---
+
+# Intra Protocol
+
+<div class="youtube-video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/KTCJol9aQjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ---
 

@@ -5,12 +5,11 @@
   <title>Matt Spendlove Portfolio</title>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   <style type="text/css">
-    @import url(https://fonts.googleapis.com/css2?family=Victor+Mono:wght@100;200&family=Roboto:wght@100&display=swap);
+    @import url(https://fonts.googleapis.com/css2?family=Victor+Mono:wght@100;200&family=Roboto:wght@100..400&display=swap);
 
     body {
       font-family: 'Roboto', sans-serif;
       font-size: 1rem;
-      /* line-height: 30px; */
       color: #4A4A4A;
       font-weight: 100;
     }
@@ -20,8 +19,12 @@
     h3,
     h4,
     h5 {
-      font-weight: normal;
-      color: #6CA8DC;
+      font-weight: 200;
+    }
+
+    strong,
+    b {
+      font-weight: 300;
     }
 
     p {
@@ -55,6 +58,20 @@
 
     blockquote {
       font-style: italic;
+    }
+
+    .copy {
+      margin-top: 4rem;
+    }
+
+    .copy-center {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      left: 0;
+      right: 0;
+      padding: 0 4rem;
+      box-sizing: border-box;
     }
 
     .logo {
