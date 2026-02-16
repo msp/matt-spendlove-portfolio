@@ -30,6 +30,7 @@ name: contents
 - [_In Parallax_](#in-parallax)
 - [_Intra Protocol_](#intra-protocol)
 - [_Decompression_](#decompression)
+- [_The Situationists' Walkman_](#situationists-walkman)
 - [_Transduction_](#transduction)
 - [_Assembly Now_ [online]](#assembly-now)
 - [_Your Double My Double Our Ghost_](#your-double)
@@ -195,6 +196,88 @@ background-size: cover
 
 background-image: url(https://static1.squarespace.com/static/5b0ed463cc8fed2e0f23643c/5be1c05bcd8366c7429679f8/5be1e4c70ebbe8c29c20d811/1541530931284/3.2+composite_Spatial-Golding_Decompression_Tyneside+Cinema.jpg?format=1500w)
 background-size: cover
+
+---
+name: situationists-walkman
+
+# The Situationists' Walkman
+
+.copy-center[
+>We want a wild and ephemeral music. We propose a fundamental regeneration: concert strikes, sound gatherings with collective investigation.
+
+<br />
+<br />
+<br />
+
+Anon, May 1968 Graffiti
+]
+
+.footnote[https://www.cenatus.org/blog/28-the-situationists-walkman---an-audio-augmented-reality-experience]
+
+---
+
+# The Situationists' Walkman
+
+.copy-center[
+_The Situationists' Walkman_ is a digital dérive—a playful, non-directed audio-only augmented reality experience that offers surprising, uncanny sonic augmentation to familiar outdoor environments.
+
+Developed around Arnold Circus and the Boundary Estate in East London during **Innovate UK Creative Industries Fund** research, the project uses the city as a playground, projecting spatial audio artworks unconstrained by gallery settings. Presented at **CMMR 2025**.
+]
+
+.footnote[https://www.cenatus.org/blog/28-the-situationists-walkman---an-audio-augmented-reality-experience]
+
+---
+
+# The Situationists' Walkman
+
+.copy-center[
+Drawing from Situationist International's concept of dérive - "undirected, spontaneous exploration of the urban environment" - the work celebrates open public spaces while demonstrating AR's creative potential beyond commercial enclosure.
+
+<br />
+<br />
+
+Featuring commissioned sonic works by **Elvin Brandhi**, **Sally Golding**, **Mark Harwood**, **Ruaridh Law**, **Nick Luscombe**, **The Nonument Group**, and **Matt Spendlove & Oliver Coates**.
+]
+
+.footnote[https://www.cenatus.org/blog/28-the-situationists-walkman---an-audio-augmented-reality-experience]
+
+---
+
+background-image: url(https://res.cloudinary.com/cenatus/image/upload/c_crop,g_center,w_0.97,h_0.85/v1771253128/projects/Situationists%20Walkman/Screenshot_2025-10-20_at_10.51.27.png)
+background-size: cover
+background-color: black
+
+---
+
+background-image: url(https://res.cloudinary.com/cenatus/image/upload/c_crop,g_center,w_0.95,h_0.75/v1771253132/projects/Situationists%20Walkman/sw-p-Screenshot_2021-11-16_164022.png)
+background-size: cover
+background-color: black
+
+---
+
+background-image: url(https://res.cloudinary.com/cenatus/image/upload/c_crop,g_center,w_0.97,h_0.9/v1771253132/projects/Situationists%20Walkman/sw-t-Screenshot_2021-11-16_164310.png)
+background-size: cover
+background-color: black
+
+---
+
+# The Situationists' Walkman
+
+.copy-center[
+The video on the following slide features binaural spatial audio.
+
+For the full 3D audio effect, **please use headphones**.
+]
+
+.footnote[https://www.cenatus.org/blog/28-the-situationists-walkman---an-audio-augmented-reality-experience]
+
+---
+
+# The Situationists' Walkman
+
+<div class="youtube-video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/6JJwGLDPmUg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ---
 name: transduction
